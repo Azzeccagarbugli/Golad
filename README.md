@@ -2,6 +2,7 @@
 Progetto software per il corso di **Programmazione L-31** realizzato per l'anno accademico **2017/2018** a cura di Francesco Coppola
 
 ## Cos'è Golad?
+
 > Si vuole realizzare un gioco simile al **Gioco della vita**.
 >
 > Il gioco si svolge su una griglia bidimensionale in cui vi sono animali di due specie differenti e alimenti di un solo tipo. Una cella può contenere un solo animale o un solo alimento.
@@ -22,7 +23,5 @@ Progetto software per il corso di **Programmazione L-31** realizzato per l'anno 
 >
 > Scrivere un programma che, distribuiti un certo numero di individui e alimenti casualmente sulla griglia, produca il numero e il tipo degli individui dopo un certo numero di spostamenti.
 
-Data questa specifica consegna Golad, dopo l'inserimento del numero di turni specificato dall'utente, riesce a produrre le statistiche relative a quel turno mostrando, inoltre, la disposizione delle diverse unità presenti nel gioco all'interno della griglia.
-
-## Struttura di Golad
+Data questa specifica consegna Golad, dopo l'inserimento del numero di turni specificato dall'utente, riesce a produrre le statistiche relative a quel turno mostrando inoltre la disposizione delle diverse unità presenti nel gioco all'interno della griglia.
 
