@@ -25,3 +25,10 @@ Progetto software per il corso di **Programmazione L-31** realizzato per l'anno 
 
 Data questa specifica consegna Golad, dopo l'inserimento del numero di turni specificato dall'utente, riesce a produrre le statistiche relative a quel turno mostrando inoltre la disposizione delle diverse unità presenti nel gioco all'interno della griglia.
 
+## Documentazione
+
+_«Una documentazione per domarli, una documentazione per trovarli, una documentazione per ghermirli e nell’oscurità incatenarli»_
+
+Per una maggiore comprensione del codice è possibile accedere alla documentazione online disponibile a questo [indirizzo](https://azzeccagarbugli.github.io/Golad/doc/index.html). 
+
+Quest'ultima è stata geneata mediante il software **JavaDoc** disponibile all'interno del framework di sviluppo **Eclipse**.
